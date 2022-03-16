@@ -10,6 +10,6 @@
 
 
 ---
-B.Big-O gösterimini yazınız.
+2. Big-O gösterimini yazınız.
 
-    n+(n-1)+(n-2)+...+1 den Big-O gösterimi O(n^2) olur.
+    n+(n-1)+(n-2)+...+1 den Big-O gösterimi O(n^2) olur.<>
