@@ -1,6 +1,6 @@
-#Insertion Sort Projesi
+# Insertion Sort Projesi
 
-##1. Odev
+## 1. Odev
 
     [22,27,16,2,18,6] -> Insertion Sort
 A.Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -28,7 +28,7 @@ D.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 Avarage case kapsamına girer.
 
 ---
-##2. Odev
+## 2. Odev
 
 A. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
